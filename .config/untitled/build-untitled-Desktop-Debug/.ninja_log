@@ -1,0 +1,20 @@
+# ninja log v5
+0	4	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+4	5	0	clean	a31eedcededa8236
+1	98	1616766222228580782	chip_autogen/timestamp	4df7b8e3ae80296d
+98	2847	1616766224979665562	CMakeFiles/chip.dir/view.cpp.o	c4f714838228f8fa
+98	1039	1616766223172609897	CMakeFiles/chip.dir/chip_autogen/mocs_compilation.cpp.o	e6d2c7548a20662d
+98	1036	1616766223169609805	CMakeFiles/chip.dir/main.cpp.o	249a0b01b17960d5
+98	1114	1616766223247612209	CMakeFiles/chip.dir/mainwindow.cpp.o	f426e2a37d94c116
+98	1229	1616766223361615722	CMakeFiles/chip.dir/chip.cpp.o	937865e052d05045
+0	4	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+4	6	0	clean	a31eedcededa8236
+2	96	1616766393033488103	chip_autogen/timestamp	4df7b8e3ae80296d
+96	99	1616766393040488290	qrc_images.cpp	d4726ecff84b07de
+100	157	1616766393098489846	CMakeFiles/chip.dir/qrc_images.cpp.o	7d32e51a3124fd8a
+100	1048	1616766393988513717	CMakeFiles/chip.dir/main.cpp.o	249a0b01b17960d5
+99	1054	1616766393994513878	CMakeFiles/chip.dir/chip_autogen/mocs_compilation.cpp.o	e6d2c7548a20662d
+100	1093	1616766394033514924	CMakeFiles/chip.dir/mainwindow.cpp.o	f426e2a37d94c116
+100	1241	1616766394180518863	CMakeFiles/chip.dir/chip.cpp.o	937865e052d05045
+100	3007	1616766395946566176	CMakeFiles/chip.dir/view.cpp.o	c4f714838228f8fa
+3007	3224	1616766396162571958	chip	4037210a2bb5a78a

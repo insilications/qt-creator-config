@@ -1,0 +1,5 @@
+/builddir/untitled/build-untitled-Desktop-Debug/CMakeFiles/edit_cache.dir
+/builddir/untitled/build-untitled-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/builddir/untitled/build-untitled-Desktop-Debug/CMakeFiles/chip.dir
+/builddir/untitled/build-untitled-Desktop-Debug/CMakeFiles/chip_autogen_timestamp_deps.dir
+/builddir/untitled/build-untitled-Desktop-Debug/CMakeFiles/chip_autogen.dir
