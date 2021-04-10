@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 4.82.0, 2021-04-10T16:06:19. -->
+<!-- Written by QtCreator 4.82.0, 2021-04-10T16:19:32. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -12,7 +12,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">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</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAAAAAAAAAAACQAAAAVlbXB0eQAAAAA=</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -20,7 +20,13 @@
  </data>
  <data>
   <variable>ProjectList</variable>
-  <valuelist type="QVariantList"/>
+  <valuelist type="QVariantList">
+   <value type="QString">/builddir/.config/untitled/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/builddir/.config/untitled/CMakeLists.txt</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -31,8 +37,21 @@
   <valuelist type="QVariantList"/>
  </data>
  <data>
+  <variable>value-PanelSplitterState:/builddir/.config/untitled/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003150000fa000000000001010000000100</value>
+ </data>
+ <data>
   <variable>value-ProjectTree.ExpandData</variable>
-  <valuelist type="QVariantList"/>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/builddir/.config/untitled</value>
+    <value type="QString">chip</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/builddir/.config/untitled</value>
+    <value type="QString">&lt;File System&gt;</value>
+   </valuelist>
+  </valuelist>
  </data>
  <data>
   <variable>value-TaskWindow.Categories</variable>
@@ -45,7 +64,9 @@
  <data>
   <variable>valueKeys</variable>
   <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
    <value type="QString">Breakpoints</value>
+   <value type="QString">PanelSplitterState:/builddir/.config/untitled/CMakeLists.txt:Build</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">TaskWindow.Categories</value>
    <value type="QString">TaskWindow.IncludeWarnings</value>
