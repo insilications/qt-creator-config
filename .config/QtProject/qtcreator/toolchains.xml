@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorToolChains>
-<!-- Written by QtCreator 4.82.0, 2021-04-10T16:19:32. -->
+<!-- Written by QtCreator 4.82.0, 2021-05-09T05:27:08. -->
 <qtcreator>
  <data>
   <variable>ToolChain.0</variable>
@@ -16,6 +16,7 @@
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">GCC (C++, x86 64bit in /usr/bin)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Gcc:{3b8f2c35-58cf-4248-b1eb-69fb0a2dc272}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
    <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
   </valuemap>
  </data>
@@ -33,6 +34,7 @@
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">GCC (C, x86 64bit in /usr/bin)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Gcc:{b38d477e-d26d-49f2-a826-96ff359d0030}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
    <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
   </valuemap>
  </data>
@@ -51,6 +53,7 @@
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Clang (C++, x86 64bit in /usr/bin)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Clang:{d8883c24-e5ad-48e8-bf97-9ccdebfd3aa7}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
    <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
   </valuemap>
  </data>
@@ -69,6 +72,7 @@
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Clang (C, x86 64bit in /usr/bin)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Clang:{87cd6cba-f19e-46fc-b6dd-1b8ba4e026ea}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
    <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
   </valuemap>
  </data>

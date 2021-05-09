@@ -121,14 +121,14 @@ void Chip::paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWid
 
     // Draw text
     if (lod >= 2) {
-        QFont font("Times", 10);
+        QFont font(QStringLiteral("Times"), 10);
         font.setStyleStrategy(QFont::ForceOutline);
         painter->setFont(font);
         painter->save();
         painter->scale(0.1, 0.1);
-        painter->drawText(170, 180, QString("Model: VSC-2000 (Very Small Chip) at %1x%2").arg(x).arg(y));
-        painter->drawText(170, 200, QString("Serial number: DLWR-WEER-123L-ZZ33-SDSJ"));
-        painter->drawText(170, 220, QString("Manufacturer: Chip Manufacturer"));
+        painter->drawText(170, 180, QStringLiteral("Model: VSC-2000 (Very Small Chip) at %1x%2").arg(x).arg(y));
+        painter->drawText(170, 200, QStringLiteral("Serial number: DLWR-WEER-123L-ZZ33-SDSJ"));
+        painter->drawText(170, 220, QStringLiteral("Manufacturer: Chip Manufacturer"));
         painter->restore();
     }
 
